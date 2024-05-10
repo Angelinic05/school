@@ -11,7 +11,7 @@ USE school
 
 **DER**
 
-![image](DER_school.png)
+![image](DER_SCHOOL.png)
 
 **Creación de tablas**
 
